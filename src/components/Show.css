@@ -1,0 +1,13 @@
+.table{
+    width: 70%;
+    border: 1px solid black;
+    text-align: center;
+}
+section{
+    display: block;
+    margin-left: 300px;
+    margin-top: 100px;
+}
+.ok{
+    margin-left: 20px;
+}
